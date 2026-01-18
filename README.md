@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales & Performance Dashboard (Power BI)
-![pizza sales dashbord](https://github.com/user-attachments/assets/6495db21-2af2-43a7-b6cf-97c2bc69c189)
+
 
 ## 📌 Project Overview
 
@@ -92,6 +92,7 @@ The dataset contains pizza sales transaction data including:
 * Total Price
 
 ---
+![pizza sales dashbord](https://github.com/user-attachments/assets/6495db21-2af2-43a7-b6cf-97c2bc69c189)
 
 ## 🚀 How to Use
 
